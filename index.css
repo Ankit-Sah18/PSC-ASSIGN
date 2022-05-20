@@ -1,0 +1,33 @@
+#formdata {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border: 2px solid blueviolet;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+#form{
+    padding: 50px;
+
+}
+#form input{
+    padding: 5px;
+    width: 300px;
+    border-radius: 5px;
+}
+#submit{
+    margin-left: 120px;
+    border-radius: 5px;
+    padding: 10px;
+}
+button:hover{
+    background-color: aqua;
+    
+    
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
